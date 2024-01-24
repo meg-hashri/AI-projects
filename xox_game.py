@@ -112,5 +112,3 @@ def main():
   if(x==0):
     Costboard(board);
     print("PLAYER O WON...");
-
-main()
